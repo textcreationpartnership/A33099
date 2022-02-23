@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Commission of the General Assembly of the Church of Scotland, met at Glasgow, July 21, 1699 to the Honourable Council, and inhabitants of the Scots colony of Caledonia, in America.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33099</idno>
+            <idno type="STC">Wing C4230</idno>
+            <idno type="STC">ESTC R22523</idno>
+            <idno type="EEBO-CITATION">12061245</idno>
+            <idno type="OCLC">ocm 12061245</idno>
+            <idno type="VID">53235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53235)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 864:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Commission of the General Assembly of the Church of Scotland, met at Glasgow, July 21, 1699 to the Honourable Council, and inhabitants of the Scots colony of Caledonia, in America.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>[2], 7-16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Mosman :</publisher>
+                  <publisher>And are to be sold at his [shop],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>[1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Darien Scots' Colony, 1698-1700 --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53235:1"/>
+            <pb facs="tcp:53235:1" rendition="simple:additions"/>
+            <p>A LETTER, FROM THE COMMISSION, OF THE <hi>General Aſſembly,</hi> OF THE CHURCH OF SCOTLAND; Met at <hi>Glaſgow, July</hi> 21, 1699.</p>
+            <p>TO THE Honourable Council, and Inhabitants, of the <hi>Scots</hi> Colony of <hi>Caledonia,</hi> in <hi>America.</hi>
+            </p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>GEORGE MOSMAN,</hi> and are to be ſold at his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <pb facs="tcp:53235:2"/>
+            <pb n="7" facs="tcp:53235:2"/>
+            <p>Pavement of that moſt Glorious City; And after all the Acquiſitions of this World, what is a Man Profited if he loſe his own Soul?</p>
+            <p>Let ſuch as are yet Strangers to Chriſt, Repent of all their Sins, commit<g ref="char:EOLhyphen"/>ted in <hi>Scotland,</hi> or ſince their Arrival In their new Dwellings, and conſider with Aſtoniſhment, with Gratitude, with relenting Sorrow and Shame, how ma<g ref="char:EOLhyphen"/>ny hundred of Leagues they have been carried ſafe, through the Vaſt Abyſs, when there was but the thickneſs of a Plank betwixt them and Death, and conſequently between them and Hell; How near they have bordered, upon the confines of Eternity; and how dreadful it will be at laſt. if the Waves and Billows of Divine Wrath ſhall go over their Souls forever. This is the Doom that every Sinner muſt undergo by himſelf, if it be not taken off by his Surety; and ſuch as fly not to the Goſpel-Sanctuary, and Refuge, their Sin will ſurely find them out, wherever they go.</p>
+            <p>We do moſt earneſtly Intreat and Obteſt You, the Honourable and Wor<g ref="char:EOLhyphen"/>thy Perſons, in whoſe Hands the Government is Lodged, That ye not only be ſhining Patterns your Selves, in all Sobriety, Holineſs and Vertue, But that, with the outmoſt Diligence, and vigilant Care, you procure, that the Deportment and Behaviour, of all under your Authority and Influence, be ſuch as becometh the Goſpel; by Commanding every one to do their Duty, by enacting ſtrict and wholeſome Laws, and Executing thoſe Laws impar<g ref="char:EOLhyphen"/>tially, and ſpeedily; That no Wickedneſs be Countenanced, or in the leaſt connived at; For why ſhould you bring Wrath upon your ſelves, and the Land, and provock the Holy God to blaſt all your Undetakings? And why ſhould you Forfeit His Bleſſing and Favour, promiſed to Righteous Rulers, and make your Selves Partakers of other Mens Sins? For whatever is com<g ref="char:EOLhyphen"/>mitted thro' your Forbearance, and Remiſneſs in Government, is juſtly Chargable on you: Every Man is Guilty of that Sin which he Reproves not, which he does not Teſtifie againſt, which he can, but neglects to hinder in another; But moſt of all, ſuch as are Rulers of others, and muſt give an Ac<g ref="char:EOLhyphen"/>count of them to God, as well as of themſelves. <hi>Thou ſhalt not hate thy Bro<g ref="char:EOLhyphen"/>ther in thy Heart, thou ſhalt in any ways rebuke thy Neighbour,</hi>
+               <note place="margin">Lav. 19.17.</note> 
+               <hi>and not ſuffer Sin upon him:</hi> And in the Margin it reads, <hi>That thou bear not Sin for him:</hi> This is a Law given unto all; But the peculiar End of Magiſtracy is, to be a Ter<g ref="char:EOLhyphen"/>ror unto Evil doers, and for the Praiſe of them that do Well; To ſet their Eyes of Favour upon the Faithful of the Land; and to cut off all Wicked<g ref="char:EOLhyphen"/>doers from the City of the Lord.</p>
+            <p>There is yet a ſpecial Obligation upon you, in the Planting and Erect<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of a New Colony, to take Care, that Religion and Vertue be planted and thrive in it. Owe you not this Return to God, who hath brought you thi<g ref="char:EOLhyphen"/>ther, and who preſerves and proſpers you? Owe you it not to your Selves, leaſt you Forſeit His merciful Kindueſs, and turn it to bitter Diſpleaſure? Owe you it not to the Nation you are come from; to the Goſpel you have Received, and Profeſt, and to the People you are come among: that they
+<pb n="8" facs="tcp:53235:3"/>receive not Scandal, and ground of Offence againſt Chriſtianity, form the ungodly Lives of Brofeſſed Chriſtians? Have you not Advantages, beyond the Government of your Native Land, or any other of a long continuance where there are ſo many Corruptions, and rooted Habits of Vice, among the people to be eradicated? Your Common-Wealth is in its Infancy; you have in your Hand the firſt Forming of it: your People yet but few, in Compari<g ref="char:EOLhyphen"/>ſon, and their Hearts, we truſt, yet tender, under the ſenſe of Divine Good<g ref="char:EOLhyphen"/>neſs, as well as the Apprehenſion of yet impendent Dangers; and ſo more ea<g ref="char:EOLhyphen"/>ſily formed into Obedience and Vertue. Are ye not all perſwaded, that, as <hi>Righteouſneſs exalteth a Nation,</hi>
+               <note place="margin">Prov. 14 34.</note> 
+               <hi>and Sin is the Reproach of any People;</hi> So it muſt be verified in a very ſpecial and emment manner upon you, That there is a Juſt and Righteous God, who will call every one to a Reckoning, both for their Perſonal and for their Stational Actions? Are you not Convinced that Sobriety, Temperance, Diligence, and all other Moral and Chriſtian Vertues are truly your Temporal, as well as your Etern<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Intereſt; that your Worldly Affairs cannot thrive without theſe; That theſe are true reaſon of State, by their propitious Influence on Society; and true point of Honour, preventing the Baſeneſs and Infamies of Vice, and rendering the Righteous Man more Excellent than his Neighbour, ſolidy Brave, Generous, and Great? Have you not before your Eyes, Fatal Examples of the ſad Effects of Immorality, and Debauchedneſs in other <hi>Colonies,</hi> ſome of which, inſtead of Propagating the Goſpel, are become Nurſeries of Scandal to <hi>Infidels;</hi> and have drawn down many formidable judgements on themſelves? Hath not the Diſſoluti<g ref="char:EOLhyphen"/>on of Manners weakned, enervated and broken ſome of your Neighbours and rendered them an eaſie Prey to their Enemies, and the Objects of Divine Vengeance, for their Corruptions, and their Cruelties.</p>
+            <p>We beſeech you, for the Lords Sake, for your own Souls ſake, and for the ſake of your Country, and of your Poſterity, for all that is, and ought to be Sacred, and Dear to Chriſtians, or to Men, that you withſtand, and prevent the Corrupting of <hi>your Infant Colony,</hi> that you Oppoſe and Stop the firſt Ap<g ref="char:EOLhyphen"/>pearances or Occaſions of Vice amongſt you People; and keep them cloſe to the ſtrict Rules of Chriſtian Morality, and a Goſpel-adorning Converſation.</p>
+            <p>Can any think, but the Divine Majeſty will reſent, and Avenge the Helliſh Unnatural, and Uncreaturely Pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hanation of His Dreadful and Holy Name, (a Sin void of Tentation, and full of Horrour) or that ever the <hi>Heathen,</hi> will be induced to Adore that God, whom His own Worſhipers Trample upon. and Contemn by prophane Swearing? And, whereas Oaths, amongſt all Na<g ref="char:EOLhyphen"/>tions, are and ought to be, eſteemed moſt Sacred and Binding; What Ve<g ref="char:EOLhyphen"/>neration, or Credite, will they give to the Oaths of thoſe, who Proſtitute them, tho' it were but in trivial Occurrences of Law, [a ſad abuſe of Judi<g ref="char:EOLhyphen"/>catories, in many Countries, which we with you to avoid] much leſs, when they are made the miſerable Blemiſhes, and Stains, of Common Diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your People and ſpoil all
+<pb n="9" facs="tcp:53235:3"/>honeſt Commerce, and manly Converſation, and prove an inlet to all Miſ<g ref="char:EOLhyphen"/>chief? A temperate People are Bold and Adventuring, Wiſe and Curagious, and attended with many temporal Bleſſings of an outward proſperous and flouriſhing Condition; while Drunkenneſs beſots, diſpirits, befools, and waſts a Nation. Let this Vice be curbed among you in its firſt beginning: And that vile and wretched Cuſtom deteſted, that hath unhappily obtained here, of doing all Buſineſs over a tippling Bottle.</p>
+            <p>Let all Uncleanneſs be abhorred: Pollute not <hi>the Temples of the Holy Ghost,</hi> which your Bodies are, Conſecrated to him in Chriſtian Baptiſm; <note place="margin">1 Cor. 6.19</note> but let every one <hi>poſſeſs his Veſsel in Sanctification and Honour;</hi>
+               <note place="margin">2 Theſ. 4.4.</note> leſt the Place of your Settlement be defiled, and the Land Spue you out, as <hi>Canaan</hi> did its Inhabitants. And let Intereſt oblige you to extraordinary Caution, and Watchfulneſs over the People, with reſpect to the <hi>Natives,</hi> in this matter; leaſt their Reſentment prove a Mean of your Ruine, and, if they ſhould be pro<g ref="char:EOLhyphen"/>voccked to avenge Indignities done them, and Injuries of this kind, your fall could not but prove Diſgraceful and Unpitied.</p>
+            <p>Let your Laws ſtrike ſeverely againſt Idleneſs, and want of Imployment, the Parent of much Miſchief and Beggary. Idle People are not only Uſeleſs, but Burdenſom in a Common wealth, Sowers of Sedition, Diſcontented, and ſeldom better exerciſed, then to find out baſe and diſhoneſt Wayes, whereby they may be maintain'd, in pampering of ſloathful Luſts Let Induſtry be re<g ref="char:EOLhyphen"/>puted Honourable, and Diligence in Imployment a Character of Vertue, worthy of the higheſt Reſpect: Let not the fooliſh Notion, ever get Footing with you, which hath been one great Cauſe of the Poverty of Our Nation at Home, and our Reproach among the Rich, and Trading Nations Abroad. That it is below a Gentleman to follow Trade and Imployment.</p>
+            <p>Let not only all Falſhood in Words and Actions, be ſeverely puniſhed, as what is inconſiſtent with Humane Society, and Enervats and Deſtroys Trade, (Faith and uprightneſs in Dealing<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being the Life and Soul of Commerce, and the beſt Foundation of Succeſs, <note place="margin">Prov. 10.92</note> 
+               <hi>For he that walketh uprightly walketh ſurely</hi>) But likewiſe Diſcourage and Diſgrace Self-ſeeking, and Narrowneſs, to the prejudice of the Publick: Let not every one ſeek his own things, to the Detriment of his Neighbour, but every one the good of others, and com<g ref="char:EOLhyphen"/>mon Benefite, for in the Intereſt of the Publick, and Proſperity of the Com<g ref="char:EOLhyphen"/>mon-wealth, that of each particular Perſon conſiſts, and is beſt ſecured. E<g ref="char:EOLhyphen"/>ſpecially this is to be look'd to, in the beginning of a Settlement, and Infancy of a Government, where Publick-Spiritedneſs and Self denial, as they are Goſpel-preceepts, ſo, will be found beſt Principles of Policy; whereas Self-ſeeking hath ever been the Bane and Ruine of many promiſing Undertakings.</p>
+            <p>We cannot forget to Recommend, to you Brotherly Love and Concord, and that you Live in peace and Unity among your ſelves; a thing no leſs Pro<g ref="char:EOLhyphen"/>fitable to you, than Pleaſant to the God of Peace, and ſuitable to the Chriſtian Name; This is our Lords new Commandment, left by Him in Legacy to
+<pb n="10" facs="tcp:53235:4"/>all His Followers, <note place="margin">John 13.34.35.</note> that they <hi>Love one another:</hi> By this even the <hi>Heathen.</hi> Na<g ref="char:EOLhyphen"/>tions ſhall know that you are the Diſciples of the Prince of Peace. We need not tell you, what is the Common-remark, on theſe of our Nation, that, how<g ref="char:EOLhyphen"/>ever Haſty, Impatient and Warm, they may be in their Debates, while at Home; yet they are Noted as Exemplary to others, in an Affectionat Concern in Sympathy with, and cloſe Adherence to one another, when Abroad. We heartily Wiſh<g ref="char:punc">▪</g> this may be Verified of you, now when you are far removed, from your Native Land, and plac'd amidſt envidus Neighbours. who are waiting for your Halting. and would make it their Work, to Improve to your Hurt, any Difference that might ariſe among you.</p>
+            <p>Let Righteous Judgement be Execute betwixt Man and Man; for the Judge<g ref="char:EOLhyphen"/>ment is the Lords. Let it be done Impartially; without vexatious Quibbles or dilatory Forms, and Diſpenſed either <hi>Gra<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> or upon a publick Salary; ſo as no Magiſtrate may Gain by Fines of his own Impoſing; a Practice moſt hurtful in your Native Land; whereby the Covetous are Tempted to Squeeze and Oppreſs, and thoſe of a more honeſt and free Diſpoſition, to become over Slack, leaſt they ſhould appear gripping for their own Intereſt. And in general; whatever <hi>Scripture</hi> or <hi>ſolid Reaſon,</hi> hath diſcovered to you to be Wrong or of ill Conſequence, in the Cuſtoms you have ſeen at Home, or elſe<g ref="char:EOLhyphen"/>where, and in the Errors of other Plantations, let theſe things be carefully Avoided in your new Government.</p>
+            <p>The Eyes of God, of Angels and of Men are upon you; The World be<g ref="char:EOLhyphen"/>gins to take notice of you, as a moſt hopeful <hi>Colony,</hi> to the Envy of your Enemies, and the Joy of your own Country and Freinds, Remember, as you are People of great Expectation, and of great Advantages; So your Honour and Renoun, your Temporal as well as your Spiritual and Eternal Gain ſhall be great, if you improve your Talent, and Manage the Price put in your hands, wiſely and well: but if otherwiſe, your Reckon<g ref="char:EOLhyphen"/>ing muſt be ſore and heavy, and your End Inglorious.</p>
+            <p>We again repeat our moſt earneſt Intreaties unto you, our Dear and ho<g ref="char:EOLhyphen"/>noured Freinds, that you be very exact; vigilant, and conſcientious in Modeling your new <hi>Colony</hi> to all vertue, and Godlineſs, eſpecially in the firſt beginning, which is of vaſt importance in all great Undertakings; And a due care of which, will render all after proceedings eaſie, pleaſant, and ſucceſsful, That you bond your outmoſt endeavours, both by Example and Law, to make Righteouſneſs, Sobriety, and Godlineſs appear in the Eyes of others. as they are in themſelves Amiable and Honourable; And all Vice and Impiety, deteſtable and infamous: So as a vitious perſon may look like a Monſter, and Object of Horrour amongſt you; Thus, Religion and Vertue will Incorporate into your very Cuſtoms and Conſtitutions, and your Laws and Perſons will be venerable, without the greivous neceſſity of being ſevere; and God will Bleſs you, and delight to dwell among you; and your Land <hi>ſhall be called Hephzi-bah,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and the name of your place <hi>Jehovahſhamniah,
+<pb n="11" facs="tcp:53235:4"/>the Lord is there.</hi> But if any will do wickedly, <note place="margin">Ezek. 4</note> if Men will be fooliſh and froward, your duty to God, and Mercy to the Community, calls for ſpeedy and Exemplary Juſtice, that you may put the evil away from among you, and others may hear and fear.</p>
+            <p>As we recommend unto you, a juſt and Chriſtian regard to all Goſpel Ordinances; So in particul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, a Religious Obſervance and Sanctificacion of of the Lord's Day, the neglect of which, will ly heavy on Governours the, command being peculiarly giv'n to them, as Perſons that muſt Anſwer for their Children and Servants, and for the Stranger that is within their Gates, aſwel as for Themſelves: If the Sabbath of the Lord be Prophan'd, He will cauſe your Land <hi>to Enjoy its Sabbaths,</hi> by Deſolation. But if you Sanctifie the Holy Day of Reſt unto the Lord, <note place="margin">Lev. 26.43.</note> He will procure and Main<g ref="char:EOLhyphen"/>tain Reſt for you in your Land.</p>
+            <p>And as we are hopeful of your Juſt and Faithful Dealings, with all Men whom you may have Occaſion to Negotiate, and Trade with; So we Re<g ref="char:EOLhyphen"/>commend, not only Equity and Juſtice, but alſo, Obligeing Kindneſs to<g ref="char:EOLhyphen"/>wards the <hi>N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tives;</hi> That your People may not only have their Converſa<g ref="char:EOLhyphen"/>tion Honeſt, among the <hi>Gentiles,</hi> but Winning and Engageing, by Beneficence; That they, beholding and enjoying the Benefice of your Good works, may glorifie God in the Day of your Viſitation. If you partake of their Tempo<g ref="char:EOLhyphen"/>ral Things, are you not of bound to Miniſter unto them of your Spiritual Things? Verity, their Debtors you are; And not only is it the Intereſt of your Trade, and your ſafety, to keep good meaſures with them; but 'tis your poſitive duty, for which the Lord ſeems in a peculiar manner to have deſigned <hi>your Plantation,</hi> as its moſt glorious End; To propogate the Light of his Goſpel amongſt them, and that Heavenly Wiſdom, which is more precious than all Riches, and whoſe Merchandice is better than the Gold of. <hi>Ophir</hi> or <hi>Darien:</hi> 'Tis by their conſent, that God confirms your Right, therefore cheriſh them as your Brethren, of the ſame Blood, and Kindred in <hi>Adam,</hi> And endeavour, that you may them have alſo your Brethren in <hi>Chriſt;</hi> not only, let no Stumbling block or occaſion of Offence, be laid before them, but all due Encouragement giv'n them, to Embrace the Everlaſting Goſpel. Let them ſee what Veneration, and Regard you pay to your Miniſters, as the Ser<g ref="char:EOLhyphen"/>vants of the moſt High God, who muſt Labour amongſt them; and to the Ordinances of Jeſus Chriſt, as the Common Means of your and their Salva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>It will be needful you ſtudy their Genius Well: For ſome of theſe Na<g ref="char:EOLhyphen"/>tions are Naturally more Sincere, and Simple; Others more Subtile, and Treacherous; But, generally, all of them, eſpecially in the beginning, Suſpi<g ref="char:EOLhyphen"/>cious and Jealous, Credulous, and Apt to take ill impreſſions, and not eaſy to quit them; Alſo moſt Revengeful and Cruel, where they can be Maſters, upon the Apprehenſion of the leaſt Injury done them, to which they have got too many Irritations, by other <hi>Europeans,</hi> who have come among them.
+<pb n="12" facs="tcp:53235:5"/>Therefore, there's need, you be, in the midſt of them, Wiſe as Serpents, and Harmleſs as Doves; You are alwayes to be very Watchful, and upon your Guard, that you may prevent Surpriſals, and be alile to defend your ſelves, if they ſhould take up any prejudice, and irritation groundleſly, againſt you: Be very concerned to ſee that none of yours Injure, or Diſoblige them in the leaſt, without due and ſpeedy puniſhment, and that more ſeverely inflicted, than for theſe Injuries done by any of you againſt another of your Selves. And beſide the puniſhment you may find juſt and neceſſar to Inflict, be ſure any Dammage they ſuſtain be repay'd, tho' it ſhould be done by the Publick, when the offending party is not able. By any means, by continual converſe, endeavour to Civilize them, and cultivat any Principles of Natural Under<g ref="char:EOLhyphen"/>ſtanding, and Reaſon, they have which will indeed require great Prudence, and Dexterity in the Management: And when they ſee <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iety, ſincerity and Equity flouriſhing among you; it will be the moſt effectual, and endearing tye to knit them to your Intereſt.</p>
+            <p>Be careful in doing Juſtice betwixt Maſters and Servants: Let their Ser<g ref="char:EOLhyphen"/>vice be a reaſonable Service, and time allow'd them for their publick and pri<g ref="char:EOLhyphen"/>vat Worſhipping of God, for they are your Brethren: And when their time expires; let them meet with ſuch encouragement, as may alwayes engage them to continue, and ſettle among you: whereby, from time to time, you will be ſtrengthened, and increaſed, and others encouraged to come unto you.</p>
+            <p>If you ſhall have Servants for Life, or Slaves of other Nations; (for the <hi>Natives</hi> of <hi>Darien,</hi> we conſider as your Confederats and <hi>Allies</hi>) as we wiſh you to be Tender, both of their Souls and Bodies, and to enc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urage their Converſion to <hi>Chriſtianity,</hi> by all proper means; So we do not urge that their abſolute Liberty, and Freedom from their Service, ſhould, as in ſome other places, be made the immediat reward of their profeſſing to receive the Go<g ref="char:EOLhyphen"/>ſpel: For this hath tempted Maſters to with-hold them from the means of their Converſion<g ref="char:punc">▪</g> leſt they ſhould be indammaged by the loſs of their Ser<g ref="char:EOLhyphen"/>vice, and hath occaſion'd the Slaves to make Counterfit Profeſſions, to gain their Liberty. But we recommend a Gentle-rule, a Mild Treatment, and that full Acceſs and Time be allow'd for their Chriſtian Inſtruction, and let ſuch Rules be agreed on, as that theſe at leaſt of them, who ſhall not only profeſs the <hi>Chriſtian Religion,</hi> but have ſuch a Goſpel Adorning Converſation, as may recommend them to the Conſciences of the Godly, as Chriſtians in<g ref="char:EOLhyphen"/>deed, may have their f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll freedom by ſuch Terms, as may be Safe and Ad<g ref="char:EOLhyphen"/>vantagious, both to their Maſters and them. Immortal Souls are of great value, and the Bleſſings of theſe, who are ready to Periſh are not to be deſpiſed.</p>
+            <p>We ſhall in the next place particularly Addreſs our ſelves to you, that are in Military Charge, and have command over the Souldiery, whether by Land or Sea: It's on you, <hi>Honoured and Worthy Gentle-men,</hi> that a great Share of the Publick Safety lyes; you are, in ſome reſpect, the eyes and hands of this
+<pb n="13" facs="tcp:53235:5"/>Infant <hi>Colony;</hi> Many of you have been lately engaged in a juſt and Glorious War, for Retriving, and defending the <hi>Proteſtant Religion,</hi> the Liberties, and Rights of your Countrey, under the Conduct of a <hi>Matchleſs Prince.</hi> And now, when through the Bleſſing of the Lord of <hi>Hoſts.</hi> His and Your Arms have procured an Honoured Peace at Home; You, and others with you, have, with much Bravery, embarked your ſelves in a Great, Generous, and Juſt Undertaking, in the remote parts of the Earth, for advanceing the Ho<g ref="char:EOLhyphen"/>nour and Intereſt of your Native Country. If in this you acquit your ſelves like Men and <hi>Chriſtians;</hi> Your Fame will be Renown'd both Abroad and at Home. We cannot foreſee what Oppoſition you may meet with from the Malico of Men, who env<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Proſperity of others, and ſeek to enhance to themſelves that part of the World, whether you are going, which may juſtly oblige you anew to the tryal of your Arms: And in that caſe, you are called to uſe your Valour, and Courage, but not to lean un<g ref="char:EOLhyphen"/>to it, nor truſt in the Arm of Fleſh. Seek to have <hi>the Lord going before you,</hi>
+               <note place="margin">Iſa. 52.12.</note> 
+               <hi>and the God of</hi> Iſrael <hi>to be your reward.</hi> And remember what is given in charge to the Armies of <hi>Iſrael, when the Hoſt goeth forth against thine Enemies,</hi>
+               <note place="margin">Deur. 23.9, 14.</note> 
+               <hi>then keep thee from every wicked thing,</hi> leſt the Lord, ſeing Wickedneſs, and Pro<g ref="char:EOLhyphen"/>phanity in your Camp, be provok'd to turn away from you. How reproach<g ref="char:EOLhyphen"/>ful would it prove to the Profeſſion of <hi>Chriſtianity,</hi> if, by the lewd practice of any among you<g ref="char:punc">▪</g> the <hi>Pagan</hi>-Nations ſhould have ground to apprehend, that you entertain that helliſh and falſe Maxim of the Atheiſtical Debauchees of this Age, which even the refin'd <hi>Heathen</hi> abhor, that 'tis a point of Gal<g ref="char:EOLhyphen"/>lantry, and a neceſſar qualification in a Souldier, to caſt off all thoughts of God, of his own Soul, of Heaven, and Hell; As if theſe, who are converſant in the Jaws of Death, were leſs concerned, than others, to mind their ſuture State; or that Wicked, and Profligate Men, could adventure to encounter with Death, which to them is a King of Terrors, with that holdneſs and ſix<g ref="char:EOLhyphen"/>ed Reſolution, in lawful and allowable War, that is to be found with the Upright Man, who can encourage himſelf with the thoughts of this, that his Latter<g ref="char:EOLhyphen"/>end will be peace? Do not <hi>Pagan,</hi> as well as <hi>Chriſtian,</hi> Hiſtories, furniſh ſuf<g ref="char:EOLhyphen"/>ficient inſtances of the Nobleſt <hi>Hero's,</hi> and braveſt Commanders, who were themſelves Paterns of Vertue, and a Terror to the Vitious, and Prophane? And, ſure, the moſt eminent of Saints. Recorded in the Holy Scriptures, have been moſt Couragious Warriours, and the beſt of Souldiers. Let us therefore earneſtly entreat, and obteſt you, who are Commanders and Offi<g ref="char:EOLhyphen"/>cers, to go before your Souldiers, in all manner of Holy Converſation. The Characters you bear, by the ſtations you are placed in, the Reſpect you owe to the Honour, Credite, and Welfare of your Native-Country, and that New Part of it, the <hi>Colony</hi> you are now going to, your own Temporal, as well as Spiritual intereſt, and the Happineſs of theſe under your Charge, do all call aloud on you, to uſe your outmoſt endeavours, for Curbing, by Exem<g ref="char:EOLhyphen"/>plary Puniſhment, and marks of Diſgrace, in any of your Souldiers, who
+<pb n="14" facs="tcp:53235:6"/>may be guilty of them, the horrid Wickedneſs of Prophane Swearing, Uncleanneſs, Drunkenneſs, Prophaning the Lord's Day, Neglect of Goſpel Ordinances, Falſehood, Treachery, Oppreſſion, and Idleneſs the Mother of all Wickedneſs, and other Enormities; the ſuppreſſing of all which we have already Recommended to the <hi>Honourable Council</hi> of the <hi>Colony:</hi> Nor ſhall we need to enforce this on you, ſo far as your ſtations call for it, with any other Arguments, than what we have offered to them, which we entreat you ſeriouſly to mind. And, for the Encouragement of all under your command to carry as becometh Chriſtian-Souldiers, in the way of Well doing: their due allowance be punctually given them, Preferment, and Re<g ref="char:EOLhyphen"/>ward, impartially, and readily beſtowed on the beſt deſerving of them: That Wickedneſs being Diſgraced, and Baniſhed, Piety encouraged and flou<g ref="char:EOLhyphen"/>riſhing in your C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> you may have confidence toward God, that the Lord will be your protection, and will delight to go forth in the midſt of you.</p>
+            <p>Though much of what we have written be Addreſſed principally, to the Governours and Magiſtrates of the <hi>Plantation,</hi> and others bearing Office among you, yet it doth likewayes concern every one of you, <hi>Our Beloved Friends, and Dear Country-men,</hi> for whom the deſire our Souls, and Prayer to God is, that you may be ſaved, that God may Countenance, and Bleſs your Under<g ref="char:EOLhyphen"/>takings, and crown them with ſucceſs, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Almighty Tower may be a Wall of Fire about you. But above all that his Gracious pretence, in his Or<g ref="char:EOLhyphen"/>dinances, may be the Glory in the midſt of you, and that your Souls may proſper, until you be tranſplanted into the better Manſions above, that King<g ref="char:EOLhyphen"/>dom which is beyond the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>j<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ies of Envious Enemies, a Kingdom that can<g ref="char:EOLhyphen"/>not be ſhaken, and whence you ſhall go forth no more.</p>
+            <p>We have found it neceſſary, from a ſenſe of our Duty before God, and our tender regard, both to your Souls, and your outward Welfare, to lay before your Governours the indiſpenſible Obligations of their Station, as Chriſtian Magiſirates, to ſet up, and maintain a Holy Righteous Government over you and to ſuppreſs, and puniſh all Vice, with the greateſt, and moſt impartial ſeverity. And this is abſolutely requiſite to the very Civil Subſiſtence of your <hi>Colony,</hi> ſo we hope it will not be grievous to any of you, and that there is not one Soul ſo degenerous, and diſſolute in your Society, as, but to wiſh for a connivance to any immoral or prophane practice. And, if there be ſuch a Perſon is a Burden a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Plague to the Reſt, that deſerves to be cut off l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt the Body be infected, and the heavy Judgements of God be pull'd down on the Community. We are therefore confident, that you will Obey, not on<g ref="char:EOLhyphen"/>ly for Fear, but, for Conſcience Sake, and for our own intereſt. That you will pay all Submiſſion and dutiful deterence to your Rulers. That you will, with Patience and contentment bear the Toil and Fatigues of your firſt Settlement, not Murmuring, for what Uneaſineſs may as yet be in your Circumſtances, but waiting upon the Lord, in an Humble, and diligent
+<pb n="15" facs="tcp:53235:6"/>Application to your preſent Work, till he in his infinite Mercy, give you a confirmed Reſt in the Lord, For, tho' you do not find ſuch Fruits attend<g ref="char:EOLhyphen"/>ing your preſent Labours, as may Anſwer all the Expectations you had, yet Patience Diligence and Induſtry, will overcome your firſt Difficulties, and thro' the Bleſſing of God, you ſhall find the Promiſe made out to you, That <hi>the Hand of the Diligent maketh Rich.</hi>
+            </p>
+            <p>And We Obteſt You, by the Mercies of God, in Jeſus Chriſt our Saviour, that in your ſeveral Stations, you Walk worthy of the Lord, unto all Well-pleaſing; that you give no Offence to the <hi>Gentiles,</hi> but be exceeding Wary and Tender of whatever may Scar them from <hi>Chriſtianity,</hi> or doing any thing unbecoming the Church, and Members of Chriſt; <hi>That you be Blameleſs and Harmleſs, the Sons of God, without Rebuke,</hi> ſhining as Lights in the World; That you be Diligent and Faithful Sober and Loving, among your ſelves; and Obſequious to them that are over you, whether in Matters Religious or Civil; And that you be every one Exemplary, Encouraging, and Edi<g ref="char:EOLhyphen"/>fying to one another, in Godlineſs, and in whatever Tends to Common-good,</p>
+            <p>
+               <hi>Finally, Bretheren, whatſoever things are True, whatſoever things are Honest, whatſoever things are Juſt, whatſoever things are Pure, whatſoever things are Lovely, whatſoever things are of good Report, of there be any Vertue, and if there be any Praiſe, think on theſe Things.</hi>
+            </p>
+            <p>And, particularly, We Recommend unto You, Frequency and Fervency in Prayer, both apart, and in Chriſtian-Societies, or Fellowſhips together. <hi>'Tis God most High, who performeth all things for You,</hi> on whom you muſt De<g ref="char:EOLhyphen"/>pend, for all your Mercies, and all your Hopes: And therefore, <hi>from the uttermoſt Ends of the Earth, lift up your Cry unto Him,</hi> who is the Hearer of Prayer, and you ſhall not ſeek his Face in Vain.</p>
+            <p>That we be not further Tedious to you, hoping, our dear Bretheren, the Miniſters we have ſent to Labour among you, in the Work of the Lord, ſhall be Furniſhed by their Great Maſter, ſo as to afford you, from his Holy Word, ſuch Inſtructions and Directions, from time to time, as your Caſe ſhall require, to whom we intreat you to Hearken, that you may be mutual<g ref="char:EOLhyphen"/>ly Encouraging to one another in the Lord your God: We only Repeat theſe Memorable Words, which we wiſh may be indelibly Engraven on your Hearts, <hi>The Lord is with You, while You are with him; and if you ſeek Him,</hi>
+               <note place="margin">2. Chron 15.2.</note> 
+               <hi>he wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l be found of you: But if you forſake Him, He will foreſake you:</hi> and all your foreward Expectations, and Blooming hopes ſhall be Blaſted and Wither, and your <hi>Colony</hi> laid Deſolate, your Names, inſtead of Honour and Renown, ſhall be branded with Infamy, Hiſſing and Scorn, and your Bleſſings turn'd unto Curſes, and the Lord ſhall Pluck you up, and not Plant you, <hi>And ſhall ſeparate you unto Evil,</hi> after he had ſaid, he would do you Good,</p>
+            <p>But, <hi>Beloved Bretheren,</hi> We are perſwaded better things of You, <note place="margin">Deut. 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 21.</note> and things that accompany Salvation, tho for your Warning, we thus Write,
+<pb n="16" facs="tcp:53235:7"/>And that the Lord will Preſerve you ſteadfaſt in Holineſs, and Faith, and will Plant you in that Place deſtinate for you, and make you a Name of Joy, and Renown among the Nations.</p>
+            <p>Now, to Conclude, We Recommend theſe few Words of Exhortation, pro<g ref="char:EOLhyphen"/>ceeding from a moſt Tender, and Affectionat Concern, for your Good, to your moſt Serious Conſideration, and to the Bleſſing of God. To Him we Recommend all of you, and to the Word of His Grace, which is able to Build you up, and to give you an Inheritance among them that are Sanctified, thro' Faitb that is in Chriſt: <hi>To whom be Glory, For Ever and Ever</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:53235:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
